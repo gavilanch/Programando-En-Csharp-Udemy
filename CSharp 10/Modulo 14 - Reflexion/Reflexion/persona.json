@@ -1,0 +1,7 @@
+{
+  "nombre": "Felipe",
+  "edad": 999,
+  "direcciones": [
+    {"calle":  "Avenida siempreviva 742"}
+  ]
+}
