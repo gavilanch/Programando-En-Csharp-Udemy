@@ -1,4 +1,4 @@
-using Clases.Soluciones.Ejercicio4;
+using Clases.Ejercicios.Ejercicio4;
 using System.Reflection;
 
 namespace Pruebas
