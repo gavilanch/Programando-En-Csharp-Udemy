@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Variables.Ejercicios
 {
     /*
-    Implementa un algoritmo que te permita determinar el número más grande dentro de un arreglo de enteros. 
+    Implementa un algoritmo que te permita determinar el número más grande dentro de un arreglo de enteros.
     Debes asignar el resultado a la variable resultado. Si el arreglo numeros tiene cero elementos, pues debes asignarle null a resultado.
 
     Tu código va debajo del comentario y encima del return.
@@ -17,10 +17,23 @@ namespace Variables.Ejercicios
     {
         public int? DeterminarElNumeroMayor(int[] numeros)
         {
-            int? resultado = 0;
+            int? resultado = null;
+
+            if (numeros != null && numeros.Length > 0)
+            {
+                resultado = numeros[0];
+                for (int i = 1; i < numeros.Length; i++)
+                {
+                    if (numeros[i] > resultado)
+                    {
+                        resultado = numeros[i]; 
+                    }
+                }
+            }
+                           
 
             // Tu código debajo de esta línea
-
+           
 
             return resultado;
         }
