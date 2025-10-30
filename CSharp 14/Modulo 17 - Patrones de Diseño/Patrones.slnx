@@ -1,0 +1,25 @@
+<Solution>
+  <Folder Name="/Comportamiento/">
+    <Project Path="Comando/Comando.csproj" Id="39c0ed17-10b3-48b7-9b73-de0c885a91f6" />
+    <Project Path="Estrategia/Estrategia.csproj" Id="fcc5a1a4-4b71-49b3-9b55-8285dd219533" />
+    <Project Path="Mediador/Mediador.csproj" Id="b9a7470f-9f93-46d5-bfb7-662b6befecf0" />
+    <Project Path="Memento_Patron/Memento_Patron.csproj" Id="7f88beea-7fb2-4502-a413-d2085e92e167" />
+    <Project Path="Metodo_Plantilla/Metodo_Plantilla.csproj" Id="e36a3abe-ff8d-4bb6-847e-e2c2602176c3" />
+  </Folder>
+  <Folder Name="/Creacionales/">
+    <Project Path="Builder/Builder.csproj" />
+    <Project Path="FactoriaAbstracta/FactoriaAbstracta.csproj" />
+    <Project Path="MetodoDeFactoria/MetodoDeFactoria.csproj" />
+    <Project Path="Prototipo/Prototipo.csproj" />
+    <Project Path="Singleton/Singleton.csproj" />
+  </Folder>
+  <Folder Name="/Estructurales/">
+    <Project Path="Adapter/Adaptador.csproj" Id="fed27980-e10b-46a2-a423-d7677c64150f" />
+    <Project Path="Compuesto/Compuesto.csproj" Id="cc3f5350-ed89-462b-806b-bfa398f0e876" />
+    <Project Path="Decorador/Decorador.csproj" Id="2882dd58-4b6f-457d-a6dd-c39a7772c4b3" />
+    <Project Path="Fachada/Fachada.csproj" Id="23ca674d-2ebe-4e16-9aa3-3573c78c92f1" />
+    <Project Path="Flyweight/Flyweight.csproj" Id="babf8b43-9e89-4b70-a2fd-96863bb9467b" />
+    <Project Path="Proxy/Proxy.csproj" Id="e8a9dd8c-c430-4849-8a8a-4c8cf4722407" />
+    <Project Path="Puente/Puente.csproj" Id="8fbfb146-91d2-4902-af09-025b7af90621" />
+  </Folder>
+</Solution>
