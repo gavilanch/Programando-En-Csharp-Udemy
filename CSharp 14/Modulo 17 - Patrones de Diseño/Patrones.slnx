@@ -1,10 +1,16 @@
 <Solution>
   <Folder Name="/Comportamiento/">
+    <Project Path="Cadena_De_Responsabilidad/Cadena_De_Responsabilidad.csproj" Id="2ad3f0c8-cd94-4908-baff-2b62cc8940eb" />
     <Project Path="Comando/Comando.csproj" Id="39c0ed17-10b3-48b7-9b73-de0c885a91f6" />
+    <Project Path="Estado/Estado.csproj" Id="6d45a585-db1f-4ad5-abab-cf0868cbc564" />
     <Project Path="Estrategia/Estrategia.csproj" Id="fcc5a1a4-4b71-49b3-9b55-8285dd219533" />
+    <Project Path="Interprete/Interprete.csproj" Id="6b6d84d7-9bfa-47a9-b648-065c44143b63" />
+    <Project Path="Iterador_Patron/Iterador_Patron.csproj" Id="4ac7792d-1122-456a-aaf9-20dab0b3df1c" />
     <Project Path="Mediador/Mediador.csproj" Id="b9a7470f-9f93-46d5-bfb7-662b6befecf0" />
     <Project Path="Memento_Patron/Memento_Patron.csproj" Id="7f88beea-7fb2-4502-a413-d2085e92e167" />
     <Project Path="Metodo_Plantilla/Metodo_Plantilla.csproj" Id="e36a3abe-ff8d-4bb6-847e-e2c2602176c3" />
+    <Project Path="Observador/Observador.csproj" Id="8d571274-841c-4746-a049-be8ac84fcaa7" />
+    <Project Path="Visitante/Visitante.csproj" Id="f0234254-7574-4e45-9602-b4093e97ba2a" />
   </Folder>
   <Folder Name="/Creacionales/">
     <Project Path="Builder/Builder.csproj" />
